@@ -57,4 +57,5 @@ Require docker is installed on your local machine.
   * After built, run ``docker exec -it ivs_app npm run migrate:run``
   * cp .env.example .env
   * Update JWT_SECRET value
-  
+
+Github: https://github.com/haster312/ivs_assignment
